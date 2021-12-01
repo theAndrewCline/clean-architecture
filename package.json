@@ -1,0 +1,30 @@
+{
+  "name": "clean-architecture",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "reveal-md ./slides.md --theme moon --highlight-theme night-owl",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/theAndrewCline/clean-architecture.git"
+  },
+  "keywords": [
+    "presentation",
+    "clean",
+    "code",
+    "clean",
+    "architecture"
+  ],
+  "author": "Andrew Cline",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/theAndrewCline/clean-architecture/issues"
+  },
+  "homepage": "https://github.com/theAndrewCline/clean-architecture#readme",
+  "dependencies": {
+    "reveal-md": "^5.2.0"
+  }
+}
